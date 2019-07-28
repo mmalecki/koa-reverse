@@ -1,0 +1,9 @@
+{
+  "name": "koa-spife",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/koa-spife.git"
+  },
+  "license": "MIT"
+}
